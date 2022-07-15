@@ -1,5 +1,5 @@
 ---
 
-$$Olist \Brazillian \e-Commerce \Segmentation \and \Recommendation System$$
+$$Olist /Brazillian \e-Commerce \Segmentation \and \Recommendation System$$
 
 ---
