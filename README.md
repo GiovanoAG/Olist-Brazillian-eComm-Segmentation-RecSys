@@ -1,1 +1,7 @@
-# Olist-Brazillian-eComm-Segmentation-RecSys
+---
+---
+
+$$Olist \Brazillian \e-Commerce \Segmentation \& \Recommendation \System$$
+
+---
+---
